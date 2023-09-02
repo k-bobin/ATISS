@@ -5,6 +5,7 @@ Original authors: Despoina Paschalidou, Amlan Kar, Maria Shugrina, Karsten Kreis
 
 If you found this work influential or helpful for your research, please consider citing the original paper:
 
+```bibtex
 @Inproceedings{Paschalidou2021NEURIPS,
   author = {Despoina Paschalidou and Amlan Kar and Maria Shugrina and Karsten Kreis and Andreas Geiger and Sanja Fidler},
   title = {ATISS: Autoregressive Transformers for Indoor Scene Synthesis},
